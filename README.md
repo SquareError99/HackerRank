@@ -1,2 +1,3 @@
 # HackerRank
-Problem Soilving
+Problem Solving
+Python
